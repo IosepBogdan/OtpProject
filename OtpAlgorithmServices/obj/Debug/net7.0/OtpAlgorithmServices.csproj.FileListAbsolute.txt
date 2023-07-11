@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\bin\Debug\net7.0\OtpAlgorithmServices.deps.json
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\bin\Debug\net7.0\OtpAlgorithmServices.dll
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\bin\Debug\net7.0\OtpAlgorithmServices.pdb
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.AssemblyInfo.cs
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.dll
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\refint\OtpAlgorithmServices.dll
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.pdb
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\ref\OtpAlgorithmServices.dll
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\bin\Debug\net7.0\OtpAlgorithmCore.dll
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\bin\Debug\net7.0\OtpAlgorithmCore.pdb
+C:\Users\user\RiderProjects\OtpAlgorithm\OtpAlgorithmServices\obj\Debug\net7.0\OtpAlgorithmServices.csproj.CopyComplete
